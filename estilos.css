@@ -172,6 +172,11 @@ body{
       background-size: cover;
     }
 
+    #sobremi{
+      font-family: PoppinsBold;
+      margin-top: 5px;
+    }
+
 }
 
 @media (min-width:700px){
