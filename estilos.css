@@ -19,16 +19,46 @@ h1{
 
 h2{
   font-family: PoppinsMedium;
+  font-size: 30px;
 }
 
 h3{
+  font-family: PoppinsMedium;
+  color: rgb(216, 216, 216);
+}
+
+h4{
   font-family: PoppinsLight;
 }
+
+h5{
+  font-family: PoppinsMedium;
+  color:#d1d1d1;
+  font-size: 20px;
+}
+
+p{
+  font-family: PoppinsLight;
+  color:#bebebe;
+  font-weight: bold;
+}
+
 
 body{
   background-color: #0A192F!important;
 }
 
+.T{
+  color:#a575ec;
+}
+
+.Y{
+  color:#d12e2e;
+}
+
+.LoL{
+  color:#C89B3C;
+}
 /* Loader */
 
 .cen{
@@ -117,10 +147,6 @@ body{
 
 #hero{
   background-color: #0A192F;
-  /* background-image: url(images/fondo.jpg);
-  background-position: center;
-  background-size: 120%;
-  background-repeat: no-repeat; */
 }
 
 
@@ -154,12 +180,10 @@ body{
 	font-weight: bold;
 }
 
-/* #sec1{
-  background-image: url(images/yo.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 5%;
-} */
+.green{
+  color:#53D5BA;
+}
+
 
 @media (min-width:300px){
   #saludo{
@@ -190,23 +214,7 @@ body{
 
 }
 
-@media (min-width:700px){
-    .CenRes{
-        text-align: center;
-    }
-
-}
-
 #sobremi{
   font-family: PoppinsBold;
 }
 
-h5{
-  font-family: PoppinsMedium;
-  color:#9f9f9fc7;
-}
-
-p{
-  font-family: PoppinsLight;
-  color:#9f9f9fc7;
-}
