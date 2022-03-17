@@ -170,10 +170,6 @@ body{
       font-size: 20px;
   }
 
-  #hero{
-    background-size: cover;
-  }
-
   #sobremi{
     font-family: PoppinsBold;
     margin-top: 5px;
@@ -185,10 +181,6 @@ body{
 
     #titulo{
         font-size: 20px;
-    }
-
-    #hero{
-      background-size: cover;
     }
 
     #sobremi{
