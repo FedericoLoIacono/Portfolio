@@ -59,6 +59,10 @@ body{
 .LoL{
   color:#C89B3C;
 }
+
+.goal{
+  color: rgb(255, 230, 86);
+}
 /* Loader */
 
 .cen{
@@ -200,6 +204,37 @@ body{
   }
 
 }
+
+@media (min-width:340px){
+  #saludo{
+      font-size: 50px;
+  }
+
+}
+
+@media (min-width:383px){
+  #saludo{
+      font-size: 55px;
+  }
+
+}
+
+@media (min-width:412px){
+  #saludo{
+      font-size: 60px;
+  }
+
+}
+
+@media (min-width:440px){
+  #saludo{
+      font-size: 65px;
+  }
+
+}
+
+
+
 
 @media (max-width:700px){
 
